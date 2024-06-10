@@ -46,7 +46,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "com.github.manjeet123"
             artifactId = "cs-banking"
-            version = "0.1.9"
+            version = "0.1.0"
             afterEvaluate {
                 from(components["release"])
 
