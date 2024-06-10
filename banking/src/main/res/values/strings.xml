@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="enter_user_id">Enter User Id</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="enter_corporate_id">Enter Corporate Id</string>
+
+</resources>
